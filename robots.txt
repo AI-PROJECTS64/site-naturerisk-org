@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Key pages
+Allow: /index.html
+Allow: /concept-note.html
+Allow: /Acquisition%20Brief%20naturerisk-202511.pdf
+Allow: /Acquisition%20Brief%20naturerisk-EN-202511.pdf
+
+# Error page (can be crawled but not indexed)
+Noindex: /404.html
